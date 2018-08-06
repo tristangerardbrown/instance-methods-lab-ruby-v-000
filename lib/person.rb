@@ -7,3 +7,6 @@ end
   def walk
     puts "The Person is walking"
   end
+
+ada = class.new 
+ada.walk
